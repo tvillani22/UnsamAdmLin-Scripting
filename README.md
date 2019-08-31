@@ -18,4 +18,8 @@
 7. A traves de la carpeta **/proc** cree un script **ps.sh** que nos liste los id de procesos, con que linea de comando fue ejecutado ordenado de manera creciente.
 
 
-8. Dado el archivo de log suministrado en este repositorio ([ej8.log](./ej8.log))
+8. Dado el archivo de log suministrado en este repositorio ([ej8.log](./ej8.log)), cree un script que mediante argumentos muestre por pantalla:
+    * el top 5 de IPs y la cantidad de hits
+    * los codigos de respuesta http y su cantidad
+    * el top 5 de las url consultadas
+    * el top 5 de los user-agents utilizados por los clientes

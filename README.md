@@ -40,3 +40,7 @@ ad1b093b-7559-40c3-9f02-a7df301afd7a
     * los codigos de respuesta http y su cantidad
     * el top 5 de las url consultadas
     * el top 5 de los user-agents utilizados por los clientes
+
+
+10. Como si usted fuera un minador de bitcoins, utilice sha1sum en un script para minar un bloque con una dificultad de un 0 al inicio de un texto que contenga la cadena `UNSAM administracion GNU/linux`. El script debe probar y terminar de minar cuando genere un bloque correcto. Se puede agregar cualquier valor delante o detras pero no modificar la cadena.
+
